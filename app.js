@@ -1,3 +1,4 @@
+// app.js
 const greeting = require('./greeting');
 
-console.log(greeting('Toronto'));
+console.log(greeting('Totoro'));
