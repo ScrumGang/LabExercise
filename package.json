@@ -1,5 +1,5 @@
 {
-  "name": "jest",
+  "name": "labexercise",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/ScrumGang/LabExercise.git"
   },
-  "author": "",
+  "author": "ScrumGang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ScrumGang/LabExercise/issues"
   },
-  "homepage": "https://github.com/ScrumGang/LabExercise#readme"
+  "homepage": "https://github.com/ScrumGang/LabExercise#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
